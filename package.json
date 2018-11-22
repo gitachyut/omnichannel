@@ -1,0 +1,37 @@
+{
+  "name": "omnichannel",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon ./app/app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "aws-sdk": "^2.299.0",
+    "body-parser": "^1.18.3",
+    "csv-stringify": "^4.3.1",
+    "csv-writer": "^1.2.0",
+    "dotenv": "^6.0.0",
+    "ejs": "^2.6.1",
+    "express": "^4.16.3",
+    "fbgraph": "^1.4.4",
+    "google-auth-library": "^1.6.1",
+    "googleapis": "^33.0.0",
+    "instagram-node": "^0.5.8",
+    "node-instagram": "^4.1.0",
+    "node-localstack": "^0.0.2",
+    "nraw": "^0.2.5",
+    "request": "^2.88.0",
+    "snoostorm": "^0.0.5",
+    "snoowrap": "^1.15.2",
+    "twit": "^2.2.11",
+    "twitter": "^1.7.1",
+    "uuid": "^3.3.2",
+    "webhoseio": "^1.0.2"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.3"
+  }
+}
