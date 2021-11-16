@@ -9,7 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "aws-sdk": "^2.299.0",
+    "aws-sdk": "^2.814.0",
     "body-parser": "^1.18.3",
     "csv-stringify": "^4.3.1",
     "csv-writer": "^1.2.0",
