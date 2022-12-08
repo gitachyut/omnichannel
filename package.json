@@ -15,7 +15,7 @@
     "csv-writer": "^1.2.0",
     "dotenv": "^6.0.0",
     "ejs": "^2.6.1",
-    "express": "^4.16.3",
+    "express": "^4.17.3",
     "fbgraph": "^1.4.4",
     "google-auth-library": "^1.6.1",
     "googleapis": "^33.0.0",
